@@ -43,21 +43,25 @@
 
 ## 환경 설정
 
-gradle 플러그인 버전 : 8.1.3
+gradle 플러그인 버전 : 8.1.3 설정
 
 ![이미지](./images/plugins버전.PNG)
 
-SDK Platforms :  Android 13.0 ("Tiramisu") API 33
+SDK Platforms :  Android 13.0 ("Tiramisu") API 33 버전 설치
 
 ![이미지](./images/SDK_Platforms.PNG)
 
-SDK Tools : Android SDK Bulid_Tools 34,
+SDK Tools : 
+
+Android SDK Bulid_Tools 34,
 
 Android Emulator 32.1.12,
 
 Android Emulator hypervisor driver (installer) 2.0.0,
 
 Android SDK Platform-Tools 34.0.1
+
+버전 설치
 
 ![이미지](./images/SDK_Tool.PNG)
 
